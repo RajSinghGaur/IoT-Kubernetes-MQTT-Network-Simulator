@@ -152,11 +152,44 @@ done
 - The MQTT broker is deployed with default settings and no authentication. For production or advanced simulation, secure the broker accordingly.
 - The network logic is basic and can be extended for routing, failure simulation, or data aggregation.
 
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+### Development Setup
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Add tests if applicable
+5. Update documentation
+6. Submit a pull request
+
+### Reporting Issues
+Please use the GitHub Issues to report bugs or request features.
+
+## Community Guidelines
+
+This project follows the [Contributor Covenant](https://www.contributor-covenant.org/) code of conduct.
+
 ## Citation
 
-If you use this simulator in your work, please cite:
+If you use this software in your research, please cite:
 
-Usmani, Mohammad Faiz. "MQTT Protocol for the IoT." International Journal of Internet of Things 12, no. 3 (2020): 45-50.
+```bibtex
+@software{gaur2025iot,
+  author = {Gaur, Raj Singh},
+  title = {IoT Kubernetes MQTT Network Simulator},
+  url = {https://github.com/RajSinghGaur/IoT-Kubernetes-MQTT-Network-Simulator},
+  version = {1.0.0},
+  year = {2025}
+}
+```
+
+## Acknowledgments
+
+- Eclipse Mosquitto for the MQTT broker
+- Kubernetes community for container orchestration
+- Python MQTT client (paho-mqtt) maintainers
 
 ## License
 
@@ -254,7 +287,3 @@ All experiments were conducted using the following Minikube-based Kubernetes env
 - **Status:** All components running and healthy
 
 This configuration ensures reproducibility and provides a realistic resource-constrained environment for IoT simulation at moderate scale.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
