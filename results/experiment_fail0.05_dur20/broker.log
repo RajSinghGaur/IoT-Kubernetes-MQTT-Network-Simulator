@@ -1,0 +1,199 @@
+chown: /mosquitto/config/mosquitto.conf: Read-only file system
+1750350170: mosquitto version 2.0.21 starting
+1750350170: Config loaded from /mosquitto/config/mosquitto.conf.
+1750350170: Opening ipv4 listen socket on port 1883.
+1750350170: mosquitto version 2.0.21 running
+1750350171: New connection from 10.244.3.146:47999 on port 1883.
+1750350171: New client connected from 10.244.3.146:47999 as auto-E7A78E93-A10E-D89A-B7B6-D2BF61952800 (p2, c1, k20).
+1750350171: New connection from 10.244.3.151:36541 on port 1883.
+1750350171: New client connected from 10.244.3.151:36541 as auto-2BF526EA-2973-538E-2908-4B274AA24FF4 (p2, c1, k20).
+1750350171: New connection from 10.244.3.154:50707 on port 1883.
+1750350171: New client connected from 10.244.3.154:50707 as auto-5AAE163A-2626-10F4-DBC0-A5F24FC92470 (p2, c1, k20).
+1750350171: New connection from 10.244.3.148:60139 on port 1883.
+1750350171: New connection from 10.244.3.147:36525 on port 1883.
+1750350171: New connection from 10.244.3.153:56929 on port 1883.
+1750350171: New connection from 10.244.3.149:52029 on port 1883.
+1750350171: New client connected from 10.244.3.148:60139 as auto-FC852A84-F009-6985-F339-63FEB6741883 (p2, c1, k20).
+1750350171: New connection from 10.244.3.145:35713 on port 1883.
+1750350171: New client connected from 10.244.3.147:36525 as auto-C9447CAC-7587-7691-E8AA-5CFCB66C156A (p2, c1, k20).
+1750350171: New connection from 10.244.3.150:55583 on port 1883.
+1750350171: New client connected from 10.244.3.149:52029 as auto-AA6BD60B-F930-3EEE-B697-486A93CC1809 (p2, c1, k20).
+1750350171: New client connected from 10.244.3.153:56929 as auto-AAC55278-384D-5864-A7ED-28E3CCA05E89 (p2, c1, k20).
+1750350171: New client connected from 10.244.3.145:35713 as auto-4BB42462-3E1A-9AFC-2B0A-4BED38D3380A (p2, c1, k20).
+1750350171: New client connected from 10.244.3.150:55583 as auto-55698972-5908-97B9-FB92-1BF77AA90EEB (p2, c1, k20).
+1750350172: New connection from 10.244.3.155:52313 on port 1883.
+1750350172: New client connected from 10.244.3.155:52313 as auto-419EC773-6F5C-678B-5CD6-EFA48B8DCEFD (p2, c1, k20).
+1750350173: New connection from 10.244.3.157:60889 on port 1883.
+1750350173: New client connected from 10.244.3.157:60889 as auto-8940A3E7-F5BB-F32B-42C6-DD5F28EB697C (p2, c1, k20).
+1750350173: New connection from 10.244.3.158:42691 on port 1883.
+1750350173: New client connected from 10.244.3.158:42691 as auto-99558295-F5EB-8645-1C5E-32D36B035047 (p2, c1, k20).
+1750350175: New connection from 10.244.3.156:36911 on port 1883.
+1750350175: New client connected from 10.244.3.156:36911 as auto-4CE0A918-B8B2-3F8B-35E2-B11B704A3DA6 (p2, c1, k20).
+1750350175: New connection from 10.244.3.160:40195 on port 1883.
+1750350175: New client connected from 10.244.3.160:40195 as auto-57E6EF87-4D12-87C5-97A0-285E971285CF (p2, c1, k20).
+1750350176: New connection from 10.244.3.161:43547 on port 1883.
+1750350176: New client connected from 10.244.3.161:43547 as auto-33D23B88-D063-F8B7-4C34-1F90994567E6 (p2, c1, k20).
+1750350177: New connection from 10.244.3.162:43101 on port 1883.
+1750350177: New client connected from 10.244.3.162:43101 as auto-A671AA04-6B5A-4B9A-6122-774AE493CC77 (p2, c1, k20).
+1750350177: New connection from 10.244.3.163:35859 on port 1883.
+1750350177: New client connected from 10.244.3.163:35859 as auto-79C93B92-6D04-EF52-D291-C5FE255E760B (p2, c1, k20).
+1750350179: New connection from 10.244.3.164:56393 on port 1883.
+1750350179: New client connected from 10.244.3.164:56393 as auto-45084FC7-72B6-C979-8906-97A9922A449E (p2, c1, k20).
+1750350180: New connection from 10.244.3.165:34465 on port 1883.
+1750350180: New client connected from 10.244.3.165:34465 as auto-B7143890-9626-B21C-63FD-2A4D2C2BB5EE (p2, c1, k20).
+1750350187: New connection from 10.244.3.152:43949 on port 1883.
+1750350187: New client connected from 10.244.3.152:43949 as auto-B0A07D14-CC3E-D8BF-1C3C-465462661105 (p2, c1, k20).
+1750350199: Client auto-E7A78E93-A10E-D89A-B7B6-D2BF61952800 closed its connection.
+1750350199: Client auto-AAC55278-384D-5864-A7ED-28E3CCA05E89 closed its connection.
+1750350201: Client auto-2BF526EA-2973-538E-2908-4B274AA24FF4 closed its connection.
+1750350202: Client auto-B0A07D14-CC3E-D8BF-1C3C-465462661105 closed its connection.
+1750350202: Client auto-5AAE163A-2626-10F4-DBC0-A5F24FC92470 closed its connection.
+1750350204: Client auto-4BB42462-3E1A-9AFC-2B0A-4BED38D3380A closed its connection.
+1750350204: Client auto-55698972-5908-97B9-FB92-1BF77AA90EEB closed its connection.
+1750350205: Client auto-AA6BD60B-F930-3EEE-B697-486A93CC1809 closed its connection.
+1750350205: Client auto-C9447CAC-7587-7691-E8AA-5CFCB66C156A closed its connection.
+1750350206: Client auto-FC852A84-F009-6985-F339-63FEB6741883 closed its connection.
+1750350254: Client auto-419EC773-6F5C-678B-5CD6-EFA48B8DCEFD closed its connection.
+1750350254: New connection from 10.244.3.155:54049 on port 1883.
+1750350254: New client connected from 10.244.3.155:54049 as auto-D0D50AC2-438F-74D1-8EC6-A8E2932FAD13 (p2, c1, k20).
+1750350279: Client auto-A671AA04-6B5A-4B9A-6122-774AE493CC77 closed its connection.
+1750350279: New connection from 10.244.3.162:33073 on port 1883.
+1750350279: New client connected from 10.244.3.162:33073 as auto-F9ED184A-1A11-14B0-21DE-4924F0161710 (p2, c1, k20).
+1750350292: Client auto-45084FC7-72B6-C979-8906-97A9922A449E closed its connection.
+1750350292: New connection from 10.244.3.164:36693 on port 1883.
+1750350292: New client connected from 10.244.3.164:36693 as auto-6DD5207A-775C-09DB-95B9-539FF30CCE13 (p2, c1, k20).
+1750350359: Client auto-4CE0A918-B8B2-3F8B-35E2-B11B704A3DA6 closed its connection.
+1750350359: New connection from 10.244.3.156:35397 on port 1883.
+1750350359: New client connected from 10.244.3.156:35397 as auto-5F16B822-B903-A5A6-3620-FCAE8A7B2E5A (p2, c1, k20).
+1750350399: Client auto-99558295-F5EB-8645-1C5E-32D36B035047 closed its connection.
+1750350399: New connection from 10.244.3.158:53973 on port 1883.
+1750350399: New client connected from 10.244.3.158:53973 as auto-BABD17B4-E2DA-0D1A-E71A-169BDBA946BC (p2, c1, k20).
+1750350522: Client auto-5F16B822-B903-A5A6-3620-FCAE8A7B2E5A closed its connection.
+1750350522: New connection from 10.244.3.156:60369 on port 1883.
+1750350522: New client connected from 10.244.3.156:60369 as auto-1D06E96C-7396-F46C-A0CF-AA3A32E00BCC (p2, c1, k20).
+1750350552: Client auto-BABD17B4-E2DA-0D1A-E71A-169BDBA946BC closed its connection.
+1750350552: New connection from 10.244.3.158:57783 on port 1883.
+1750350552: New client connected from 10.244.3.158:57783 as auto-DDC39215-6E15-8E25-DED9-CF4B0B1B5FED (p2, c1, k20).
+1750350577: Client auto-F9ED184A-1A11-14B0-21DE-4924F0161710 closed its connection.
+1750350577: New connection from 10.244.3.162:57521 on port 1883.
+1750350577: New client connected from 10.244.3.162:57521 as auto-30EBFF2A-1154-ED8D-D190-814139D8F257 (p2, c1, k20).
+1750350582: Client auto-DDC39215-6E15-8E25-DED9-CF4B0B1B5FED closed its connection.
+1750350582: New connection from 10.244.3.158:39663 on port 1883.
+1750350582: New client connected from 10.244.3.158:39663 as auto-EEAFD350-7057-9835-DF37-FE16F4FA0C1F (p2, c1, k20).
+1750350614: Client auto-1D06E96C-7396-F46C-A0CF-AA3A32E00BCC closed its connection.
+1750350614: New connection from 10.244.3.156:58757 on port 1883.
+1750350614: New client connected from 10.244.3.156:58757 as auto-82F74C89-B2D4-AD26-769D-DAC5877F4B96 (p2, c1, k20).
+1750350620: Client auto-79C93B92-6D04-EF52-D291-C5FE255E760B closed its connection.
+1750350620: New connection from 10.244.3.163:34469 on port 1883.
+1750350620: New client connected from 10.244.3.163:34469 as auto-9AC8DCCD-69C2-B83F-7514-DE9923F3D69C (p2, c1, k20).
+1750350632: Client auto-B7143890-9626-B21C-63FD-2A4D2C2BB5EE closed its connection.
+1750350632: New connection from 10.244.3.165:60157 on port 1883.
+1750350632: New client connected from 10.244.3.165:60157 as auto-FFC53CC9-CAFE-3B29-AE94-BD503DDC45AA (p2, c1, k20).
+1750350644: Client auto-D0D50AC2-438F-74D1-8EC6-A8E2932FAD13 closed its connection.
+1750350644: New connection from 10.244.3.155:46361 on port 1883.
+1750350644: New client connected from 10.244.3.155:46361 as auto-B830B2D9-67E7-6D31-21C3-1DD2A0D81368 (p2, c1, k20).
+1750350700: Client auto-33D23B88-D063-F8B7-4C34-1F90994567E6 closed its connection.
+1750350700: New connection from 10.244.3.161:34943 on port 1883.
+1750350700: New client connected from 10.244.3.161:34943 as auto-D9918352-39BF-37F2-494B-3F004A4A46CF (p2, c1, k20).
+1750350711: Client auto-9AC8DCCD-69C2-B83F-7514-DE9923F3D69C closed its connection.
+1750350711: New connection from 10.244.3.163:44311 on port 1883.
+1750350711: New client connected from 10.244.3.163:44311 as auto-7B0F00AD-39EB-D60C-BE62-057A700360C5 (p2, c1, k20).
+1750350720: Client auto-30EBFF2A-1154-ED8D-D190-814139D8F257 closed its connection.
+1750350720: New connection from 10.244.3.162:48727 on port 1883.
+1750350720: New client connected from 10.244.3.162:48727 as auto-348DFD76-C487-1FE7-3654-657782BF6940 (p2, c1, k20).
+1750350731: Client auto-57E6EF87-4D12-87C5-97A0-285E971285CF closed its connection.
+1750350731: New connection from 10.244.3.160:60597 on port 1883.
+1750350731: New client connected from 10.244.3.160:60597 as auto-3666E452-01E4-C704-1E87-5DC49432F713 (p2, c1, k20).
+1750350775: Client auto-FFC53CC9-CAFE-3B29-AE94-BD503DDC45AA closed its connection.
+1750350775: New connection from 10.244.3.165:48653 on port 1883.
+1750350775: New client connected from 10.244.3.165:48653 as auto-FC4E0CD2-A547-7BA5-1EB5-6330C2BC57EE (p2, c1, k20).
+1750350777: Client auto-82F74C89-B2D4-AD26-769D-DAC5877F4B96 closed its connection.
+1750350777: New connection from 10.244.3.156:40315 on port 1883.
+1750350777: New client connected from 10.244.3.156:40315 as auto-07D2A9ED-6408-A140-0D3F-CAF041E6621B (p2, c1, k20).
+1750350813: Client auto-D9918352-39BF-37F2-494B-3F004A4A46CF closed its connection.
+1750350813: New connection from 10.244.3.161:41445 on port 1883.
+1750350813: New client connected from 10.244.3.161:41445 as auto-5FF563AD-D71E-9AAF-57FE-E74CA07B792E (p2, c1, k20).
+1750350836: Client auto-FC4E0CD2-A547-7BA5-1EB5-6330C2BC57EE closed its connection.
+1750350837: New connection from 10.244.3.165:56395 on port 1883.
+1750350837: New client connected from 10.244.3.165:56395 as auto-842B8AFC-3A1C-78C8-F787-4D7DAA57EF33 (p2, c1, k20).
+1750350857: Client auto-6DD5207A-775C-09DB-95B9-539FF30CCE13 has exceeded timeout, disconnecting.
+1750350857: New connection from 10.244.3.164:39753 on port 1883.
+1750350857: New client connected from 10.244.3.164:39753 as auto-5CD091B0-D534-31A7-1C74-F8947A8137F2 (p2, c1, k20).
+1750350871: Client auto-8940A3E7-F5BB-F32B-42C6-DD5F28EB697C closed its connection.
+1750350871: New connection from 10.244.3.157:34709 on port 1883.
+1750350871: New client connected from 10.244.3.157:34709 as auto-C9ED3BDA-4F0E-A84F-1DD6-58B126627FAE (p2, c1, k20).
+1750350895: Client auto-5FF563AD-D71E-9AAF-57FE-E74CA07B792E closed its connection.
+1750350895: New connection from 10.244.3.161:51471 on port 1883.
+1750350895: New client connected from 10.244.3.161:51471 as auto-7E18C7EB-89CC-EF8F-22FE-57894676896F (p2, c1, k20).
+1750350906: Client auto-7B0F00AD-39EB-D60C-BE62-057A700360C5 closed its connection.
+1750350906: New connection from 10.244.3.163:49907 on port 1883.
+1750350906: New client connected from 10.244.3.163:49907 as auto-9D2AE864-B5D6-5CF0-D0BA-FC749714BBD6 (p2, c1, k20).
+1750350953: Client auto-C9ED3BDA-4F0E-A84F-1DD6-58B126627FAE closed its connection.
+1750350953: New connection from 10.244.3.157:60529 on port 1883.
+1750350953: New client connected from 10.244.3.157:60529 as auto-B00AF6C5-E8ED-5170-1935-18312EEBD984 (p2, c1, k20).
+1750350977: Client auto-3666E452-01E4-C704-1E87-5DC49432F713 closed its connection.
+1750350977: New connection from 10.244.3.160:41503 on port 1883.
+1750350977: New client connected from 10.244.3.160:41503 as auto-A4F337F7-0EC3-1FB0-387F-532E6A327D68 (p2, c1, k20).
+1750350978: Client auto-9D2AE864-B5D6-5CF0-D0BA-FC749714BBD6 closed its connection.
+1750350978: New connection from 10.244.3.163:58387 on port 1883.
+1750350978: New client connected from 10.244.3.163:58387 as auto-6A2203E1-BD69-8D20-9884-C4B85D3253BC (p2, c1, k20).
+1750350991: Client auto-842B8AFC-3A1C-78C8-F787-4D7DAA57EF33 has exceeded timeout, disconnecting.
+1750350991: New connection from 10.244.3.165:37239 on port 1883.
+1750350991: New client connected from 10.244.3.165:37239 as auto-6C13DAB0-442D-F383-81A4-5072BCC7C8C8 (p2, c1, k20).
+1750350991: Client auto-5CD091B0-D534-31A7-1C74-F8947A8137F2 closed its connection.
+1750350991: New connection from 10.244.3.164:39063 on port 1883.
+1750350991: New client connected from 10.244.3.164:39063 as auto-5C249E25-3B39-FF3D-77B3-E0F11B03BFD2 (p2, c1, k20).
+1750351064: Client auto-07D2A9ED-6408-A140-0D3F-CAF041E6621B closed its connection.
+1750351064: New connection from 10.244.3.156:60549 on port 1883.
+1750351064: New client connected from 10.244.3.156:60549 as auto-DDE34536-D0C5-4D1A-1595-CE0710529E85 (p2, c1, k20).
+1750351069: Client auto-6A2203E1-BD69-8D20-9884-C4B85D3253BC closed its connection.
+1750351069: New connection from 10.244.3.163:39993 on port 1883.
+1750351069: New client connected from 10.244.3.163:39993 as auto-2BAAC89D-19AC-ACFE-3E24-E576EB5CA446 (p2, c1, k20).
+1750351099: Client auto-2BAAC89D-19AC-ACFE-3E24-E576EB5CA446 closed its connection.
+1750351099: New connection from 10.244.3.163:58309 on port 1883.
+1750351099: New client connected from 10.244.3.163:58309 as auto-EE5F2B56-B1F7-FBAF-E6F0-466255463782 (p2, c1, k20).
+1750351116: Client auto-B00AF6C5-E8ED-5170-1935-18312EEBD984 closed its connection.
+1750351116: New connection from 10.244.3.157:40019 on port 1883.
+1750351116: New client connected from 10.244.3.157:40019 as auto-31DDB8C9-7F1B-64A4-FF41-B2173A7DA999 (p2, c1, k20).
+1750351125: Client auto-DDE34536-D0C5-4D1A-1595-CE0710529E85 closed its connection.
+1750351125: New connection from 10.244.3.156:58713 on port 1883.
+1750351125: New client connected from 10.244.3.156:58713 as auto-60FEC4F6-F86B-9EC4-7171-B0A8EE62DC8A (p2, c1, k20).
+1750351130: Client auto-EE5F2B56-B1F7-FBAF-E6F0-466255463782 closed its connection.
+1750351130: New connection from 10.244.3.163:42555 on port 1883.
+1750351130: New client connected from 10.244.3.163:42555 as auto-CB2EF564-4B0C-45E5-8FFE-BCE11E756A1B (p2, c1, k20).
+1750351134: Client auto-6C13DAB0-442D-F383-81A4-5072BCC7C8C8 closed its connection.
+1750351134: New connection from 10.244.3.165:59127 on port 1883.
+1750351134: New client connected from 10.244.3.165:59127 as auto-0B085241-9305-D054-FD4B-8072CB7BFE86 (p2, c1, k20).
+1750351177: Client auto-EEAFD350-7057-9835-DF37-FE16F4FA0C1F closed its connection.
+1750351177: New connection from 10.244.3.158:52529 on port 1883.
+1750351177: New client connected from 10.244.3.158:52529 as auto-67A5C71D-10AB-0744-5272-CA50CAC4CEE1 (p2, c1, k20).
+1750351206: Client auto-60FEC4F6-F86B-9EC4-7171-B0A8EE62DC8A closed its connection.
+1750351206: New connection from 10.244.3.156:45793 on port 1883.
+1750351206: New client connected from 10.244.3.156:45793 as auto-C9093EBF-11B1-46DC-BCD3-2B5EE81F200F (p2, c1, k20).
+1750351206: Client auto-5C249E25-3B39-FF3D-77B3-E0F11B03BFD2 closed its connection.
+1750351206: New connection from 10.244.3.164:54397 on port 1883.
+1750351206: New client connected from 10.244.3.164:54397 as auto-86DEDD63-42CD-6440-F095-170D36250755 (p2, c1, k20).
+1750351229: Client auto-348DFD76-C487-1FE7-3654-657782BF6940 closed its connection.
+1750351229: New connection from 10.244.3.162:53395 on port 1883.
+1750351229: New client connected from 10.244.3.162:53395 as auto-B268A53B-D726-67B1-FBDA-A796B0D231FC (p2, c1, k20).
+1750351232: Client auto-7E18C7EB-89CC-EF8F-22FE-57894676896F closed its connection.
+1750351232: New connection from 10.244.3.161:35063 on port 1883.
+1750351232: New client connected from 10.244.3.161:35063 as auto-A3EC21EA-BB04-D52C-58DC-7990A2764042 (p2, c1, k20).
+1750351247: Client auto-C9093EBF-11B1-46DC-BCD3-2B5EE81F200F closed its connection.
+1750351247: New connection from 10.244.3.156:53031 on port 1883.
+1750351247: New client connected from 10.244.3.156:53031 as auto-32A8F3B6-C990-AC69-5011-B5F990A123CC (p2, c1, k20).
+1750351249: Client auto-31DDB8C9-7F1B-64A4-FF41-B2173A7DA999 closed its connection.
+1750351249: New connection from 10.244.3.157:54353 on port 1883.
+1750351249: New client connected from 10.244.3.157:54353 as auto-747FA06D-DB41-AA3E-1B54-0569B844A9D7 (p2, c1, k20).
+1750351268: Client auto-86DEDD63-42CD-6440-F095-170D36250755 closed its connection.
+1750351268: New connection from 10.244.3.164:56387 on port 1883.
+1750351268: New client connected from 10.244.3.164:56387 as auto-CA59DC64-104C-DB52-5FE4-B6F974CD6347 (p2, c1, k20).
+1750351308: Client auto-32A8F3B6-C990-AC69-5011-B5F990A123CC closed its connection.
+1750351308: New connection from 10.244.3.156:49797 on port 1883.
+1750351308: New client connected from 10.244.3.156:49797 as auto-668BE9FF-1982-0A78-578A-398F7654144C (p2, c1, k20).
+1750351328: Client auto-0B085241-9305-D054-FD4B-8072CB7BFE86 closed its connection.
+1750351328: New connection from 10.244.3.165:50481 on port 1883.
+1750351328: New client connected from 10.244.3.165:50481 as auto-B9AD69A9-01E6-12B8-1BAF-7C200B7B1A54 (p2, c1, k20).
+1750351342: Client auto-67A5C71D-10AB-0744-5272-CA50CAC4CEE1 closed its connection.
+1750351342: New connection from 10.244.3.158:56097 on port 1883.
+1750351342: New client connected from 10.244.3.158:56097 as auto-9B07019B-61CC-FBD1-5DA4-5EDA4E87E95E (p2, c1, k20).

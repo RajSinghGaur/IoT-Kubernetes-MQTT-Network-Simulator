@@ -1,0 +1,27 @@
+digraph IoT_K8s_Architecture {
+    rankdir=LR;
+    node [shape=box, style=filled, fillcolor=lightgray, fontname="Helvetica"];
+
+    subgraph cluster_k8s {
+        label="Kubernetes Cluster";
+        style=dashed;
+        color=blue;
+        Broker [label="MQTT Broker\n(Mosquitto)", shape=ellipse, fillcolor=lightblue, style=filled];
+        NetSim [label="Network Simulation\n(Latency, Loss, Failure)", shape=parallelogram, fillcolor=lightyellow];
+        Device1 [label="IoT Device Pod 1\n(mqtt_device.py)"];
+        Device2 [label="IoT Device Pod 2\n(mqtt_device.py)"];
+        DeviceN [label="IoT Device Pod N\n(mqtt_device.py)"];
+        
+        Device1 -> NetSim -> Broker;
+        Device2 -> NetSim;
+        DeviceN -> NetSim;
+        Broker -> Device1;
+        Broker -> Device2;
+        Broker -> DeviceN;
+    }
+
+    User [label="User\n(Experiment Scripts)", shape=diamond, fillcolor=yellow, style=filled];
+    User -> Broker [label="Deploy/Monitor", color=gray];
+    User -> Device1 [label="Deploy/Monitor", color=gray];
+    User -> Device2 [label="...", color=gray];
+}

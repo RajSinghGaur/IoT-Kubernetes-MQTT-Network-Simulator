@@ -1,0 +1,19 @@
+# mosquitto.conf.template
+# Use envsubst to fill in values before running the broker
+
+# Listener port (default 1883)
+listener ${MQTT_PORT}
+
+# Set the maximum keep alive (in seconds)
+max_keepalive ${MQTT_KEEPALIVE}
+
+# Persistence (optional)
+persistence true
+persistence_location /mosquitto/data/
+
+# Logging (optional)
+log_dest stdout
+log_type all
+
+# Allow anonymous connections (for testing)
+allow_anonymous true
