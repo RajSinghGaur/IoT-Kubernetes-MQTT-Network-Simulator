@@ -19,6 +19,6 @@
   "license": "MIT",
   "repository": "https://github.com/RajSinghGaur/IoT-Kubernetes-MQTT-Network-Simulator",
   "archive": "https://github.com/RajSinghGaur/IoT-Kubernetes-MQTT-Network-Simulator/archive/refs/heads/main.zip",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Kubernetes-based IoT network simulator using MQTT for device communication, with configurable network conditions, device failures, and scalability testing"
 }
