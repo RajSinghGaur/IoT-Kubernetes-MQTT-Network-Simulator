@@ -159,10 +159,8 @@ If you use this simulator in your work, please cite:
 Usmani, Mohammad Faiz. "MQTT Protocol for the IoT." International Journal of Internet of Things 12, no. 3 (2020): 45-50.
 
 ## License
-MIT
 
-### Simulated Device Failure and MQTT Timeout
-During a simulated device failure, the MQTT network loop is paused (no heartbeats or messages sent). If the pause exceeds the keep alive timeout (set to 20s in the code), the broker will disconnect the client due to inactivity. After the failure period, the device automatically reconnects and resumes normal operation. This accurately simulates a real-world MQTT timeout and reconnection scenario.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Running Timed Experiments and Collecting Logs
 
@@ -256,3 +254,7 @@ All experiments were conducted using the following Minikube-based Kubernetes env
 - **Status:** All components running and healthy
 
 This configuration ensures reproducibility and provides a realistic resource-constrained environment for IoT simulation at moderate scale.
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
