@@ -180,10 +180,14 @@ If you use this software in your research, please cite:
   author = {Gaur, Raj Singh},
   title = {IoT Kubernetes MQTT Network Simulator},
   url = {https://github.com/RajSinghGaur/IoT-Kubernetes-MQTT-Network-Simulator},
-  version = {1.0.0},
+  version = {1.0.2},
   year = {2025}
 }
 ```
+
+Or:
+
+Gaur, R. S. (2025). IoT Kubernetes MQTT Network Simulator: A Cloud-Native Platform for Realistic IoT Device and Network Behavior Simulation. \textit{SoftwareX}. https://github.com/RajSinghGaur/IoT-Kubernetes-MQTT-Network-Simulator
 
 ## Acknowledgments
 
